@@ -2,7 +2,7 @@
 This is a Power Bi report created based on Onyx Data Challenge for March 2022
 
 # Data Dictionary
-Column Name	|  Description	| Data Type
+Column Name	|  Description	| Data Type <br>
 Order NO |	Order number of Pie Bakery orders |	String
 Order Date |	Date order was placed |	Date
 Month/Yr |	Month & Year abbreviation of the Date of order |	Date
