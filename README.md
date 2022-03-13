@@ -1,5 +1,5 @@
 # Onyx-Data-Challenge-March-2022-Pie-Bakery
-This is a Power Bi report created based on Onyx Data Challenge for March 2022
+This is a Power BI report created based on Onyx Data Challenge for March 2022
 
 # Data Dictionary
 ## Column Name	|  Description	| Data Type <br>
